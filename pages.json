@@ -1,0 +1,15 @@
+{
+	"pages": [
+		{
+			"path": "pages/index"
+		}
+	],
+	"globalStyle": {
+		"navigationStyle": "custom",
+		"pageOrientation": "landscape"
+		// "rpxCalcBaseDeviceWidth": 1114,	// 375
+		// "rpxCalcIncludeWidth": 1114,	// 750
+		// "rpxCalcMaxDeviceWidth": 1440,
+		// "maxWidth": 1440
+	}
+}

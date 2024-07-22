@@ -1,0 +1,3 @@
+@function px2vw($value) {
+	@return $value/1114*100vw;
+}
